@@ -1,0 +1,282 @@
+,Datetime,Text,Hashtags
+0,2023-06-09 12:52:00+00:00,"The Three Transitions:
+
+https://t.co/rtewRnm2wK",
+1,2023-05-23 05:09:08+00:00,"Totally random fun thing:
+
+I took a game I made in my pre-crypto days (back in 2011) and uploaded it to IPFS.
+
+Enjoy, and good luck beating the tutorial!
+
+https://t.co/6Jyp6CsR1c",
+2,2023-05-21 18:48:08+00:00,"Don't overload Ethereum's consensus:
+
+https://t.co/07tzyCrZcJ",
+3,2023-04-14 07:14:21+00:00,"Travel time ~= distance ^ 0.6
+
+https://t.co/lad0MTrd9D",
+4,2023-04-13 10:40:11+00:00,"Large in-person events I'm speaking at in person in Q2:
+
+* EDCON in Montenegro, May 19-23 @EDCON2023 https://t.co/TayUiql9zl
+* EthPrague, ~Jun 11 @EthPrague 
+* EthWaterloo, ~Jun 25
+
+Also speaking online (eg. @EthTaipei in Apr). Apologies to all the events I couldn't come to!",
+5,2023-03-31 21:07:33+00:00,"How will Ethereum's multi-client philosophy interact with ZK-EVMs?
+
+https://t.co/MPpTPNhldR",
+6,2023-03-17 06:01:45+00:00,"Self-custody is important. And social recovery and multisig is a great way to do it.
+
+A quick reddit post on how I think about choosing guardians for social recovery and multisig wallets:
+
+https://t.co/FY1iyJ6BFC",
+7,2023-02-28 00:43:24+00:00,"Some personal user experiences:
+
+https://t.co/PhahJFiNVe",
+8,2023-01-26 05:39:47+00:00,"RT @reflexerfinance: Check out @VitalikButerin's post in the Reflexer Forum on how RAI-like systems might safely support staked ETH
+
+https:…",
+9,2023-01-20 20:04:12+00:00,"An incomplete guide to stealth addresses:
+
+https://t.co/21Q18BrD30",
+10,2023-01-01 03:11:19+00:00,"RT @GovofCO: This time of year, it is essential to be “Bear Aware.” This includes securing trash cans and dumpsters, removing bird feeders,…",
+11,2023-01-01 00:27:19+00:00,"RT @JBSchweitzer: As the year of the Merge ends, we wanted to share updates from many of the Ethereum gardeners and EF-supported teams that…",
+12,2022-12-31 22:15:52+00:00,"RT @VitalikButerin: @IAPonomarenko Happy new year, and lots of love to you too.
+
+Wish you guys a peace with justice in 2023.
+
+Слава Україні…",
+13,2022-12-30 22:09:49+00:00,"One of my favorite concepts that @slatestarcodex taught me is defining things extensionally. See his extensional defn of high modernism:
+
+https://t.co/J67vkCJGMy
+
+It often really is far more accurate than attempting a self-contained formal description that captures everything. https://t.co/b1xgGItzFA",
+14,2022-12-30 14:52:14+00:00,"Recommend this.
+
+Giving money directly to the poorest people in the world is a simple effective way of greatly improving people's lives that we can all get behind.",
+15,2022-12-30 14:37:29+00:00,Continue to appreciate your role in making these writings accessible to more people!,
+16,2022-12-27 16:43:00+00:00,RT @glenweyl: I am excited to release this paper with Joel Miller and Leon Erichsen with the first formal mathematical analysis of Plural V…,
+17,2022-12-18 22:13:52+00:00,Paul Graham went down with honor. https://t.co/L6qKuj1b5u,
+18,2022-12-18 18:54:59+00:00,RT @elonmusk: The acid test for any two competing socioeconomic systems is which side needs to build a wall to keep people from escaping? T…,
+19,2022-12-18 18:52:55+00:00,RT @AyaMiyagotchi: Felicidades mis amigos argentinos 🇦🇷,
+20,2022-12-18 18:34:33+00:00,"RT @VitalikButerin: My new socials page:
+
+https://t.co/gtgCSP52rA
+
+I'm eagerly trying out Mastodon, Farcaster, Lens and others, and I'll bo…",
+21,2022-12-18 18:31:47+00:00,RT @lexfridman: I'm going to have a heart attack. This is the greatest World Cup game I've ever seen.,
+22,2022-12-17 19:42:28+00:00,RT @tkstanczak: 2023 incoming - lots of goodies from Alexey and the team at @nethermindeth https://t.co/ILmnPJErO8,
+23,2022-12-16 16:51:54+00:00,This is really bad imo https://t.co/y69hqIfq1S,
+24,2022-12-16 13:25:16+00:00,"RT @VitalikButerin: @DavidSacks The problem is the way in which the policies were introduced, seeming to retrofit around Elon's views on ve…",
+25,2022-12-15 19:27:13+00:00,"RT @Zac_Aztec: Today we've announced Aztec's $100M Series B fundraise, lead by a16z. We raised this money so that we can execute on the Azt…",
+26,2022-12-14 22:17:07+00:00,"Seems like a positive step. I'm critical of Apple for many reasons (ok fine, the reasons are all basically different aspects of ""being way too proprietary""), but they have done some important good things in protecting user privacy.",
+27,2022-12-13 21:20:28+00:00,RT @jack: wow https://t.co/UFXsAnJp1K,
+28,2022-12-12 20:23:49+00:00,"RT @StarkWareLtd: Safe CEX!
+
+Join our twitter spaces tomorrow, featuring:
+
+Vitalik Buterin @VitalikButerin
+Eli Ben-Sasson @EliBenSasson
+Nic…",
+29,2022-12-12 15:34:55+00:00,"RT @VitalikButerin: @nanexcool And when we move to verkle trees, I want to replace our current storage gas accounting scheme outright with…",
+30,2022-12-12 15:34:08+00:00,"RT @VitalikButerin: @0xc1c4da Needs a few more changes to truly work though:
+
+https://t.co/LZTAHy3TmW",
+31,2022-12-11 14:07:32+00:00,RT @moskov: @VitalikButerin Reminds me of https://t.co/RlG3KdJZR1,
+32,2022-12-08 13:13:18+00:00,"I would love to see a study giving humans the SAT but adding a ""prompt"" at the end of every question (""imagine you are an expert mathematician"", ""proceed step by step"").
+
+I suspect there are prompts that would significantly improve results for people.",
+33,2022-12-08 01:45:10+00:00,"One thing I don't understand is why people assume big powerful actors are static and unaffected by public discourse.
+
+Like, I haven't seen any SBF take even mention the possibility that some NYT or gov person started off soft, but changed strategy after seeing public feedback.",
+34,2022-12-06 19:14:19+00:00,"RT @optimismFND: Today, we’re incredibly excited to announce Retroactive Public Goods Funding Round 2.
+
+In February 2023, 10M OP will be di…",
+35,2022-12-06 17:53:21+00:00,"@TheAtlantic makes a similar case, and expands on issues around the relationship between hard sciences and the humanities:
+
+https://t.co/XyJN6WNhin",
+36,2022-12-06 17:35:48+00:00,"RT @mysticryuujin: ANOTHER non-censoring relay
+
+https://t.co/rksi6GKsu6",
+37,2022-12-06 14:43:21+00:00,"RT @VitalikButerin: @CoinDesk @Bitstamp Sure! Happy to critique and appreciate your openness to suggestions.
+
+I think my biggest issue with…",
+38,2022-12-06 13:02:50+00:00,"A quick GPT chatbot coding experiment: updating my blog
+
+https://t.co/C2eQQ3l2qo",
+39,2022-12-06 12:00:28+00:00,"Good balanced thread on levels of Russian support for the war.
+
+""It's just Putin and maybe 87 other people who are the problem"" is false, but ""everyone in Russia bad"" is also false.
+
+Difficult topic but it's important to have good info to have the best chance of ending the war.",
+40,2022-12-05 14:58:29+00:00,"I propose the term ""alfalfa leak"" for something that doesn't give you an easy path to short term profit, but is still ultimately good for you.",
+41,2022-12-05 14:23:50+00:00,"What in the Ethereum application ecosystem excites me
+
+https://t.co/QxCa6EoWDl",
+42,2022-12-04 13:35:43+00:00,"RT @VitalikButerin: ""Proof of Stake"", the (physical and digital) book compiling various writings I've made over the last ~10 years, is fina…",
+43,2022-12-04 00:46:11+00:00,"RT @VitalikButerin: @thestaffdev Or put another way, everyone who failed is staying silent to avoid the feeling of embarrassment.
+
+Publicly…",
+44,2022-12-03 22:39:00+00:00,"RT @VitalikButerin: @coinmamba I'd recommend increasing your distance from trading/investing circles, and getting closer to the tech and ap…",
+45,2022-12-03 20:30:13+00:00,"RT @sriramk: PROPOSAL: Transparent content moderation: 
+
+A proposal for social media platforms to commit to transparency on all moderation…",
+46,2022-12-01 23:56:15+00:00,"So I guess we still haven't figured out how not to give large-scale murderers and thieves unlimited opportunity to become the primary topic of public conversation...
+
+We really need better edgelords.",
+47,2022-12-01 17:44:39+00:00,"RT @danfinlay: Oh I'll absolutely stand in solidarity here, I assume MM and every other wallet is next. I'm ready to dump the Apple ecosyst…",
+48,2022-11-30 17:47:34+00:00,"EIP-1559, the merge and wallet upgrades have _drastically_ improved the UX of sending ethereum transactions since 2020.
+
+Now I can just send a transaction, not fiddling around at all with wallet settings, and usually see it included within a few seconds.",
+49,2022-11-30 13:26:42+00:00,"RT @hasufl: Say hello to two more players in the relay market thanks to the @GnosisDAO and @ultrasoundmoney communities.
+
+To support their…",
+50,2022-11-30 13:25:05+00:00,"RT @ultrasoundmoney: big day for relay diversity!
+
+the ultra sound relay
+ 👉 https://t.co/nlxHHv2oHL
+
+the agnostic relay, by @GnosisDAO 
+ 👉…",
+51,2022-11-30 11:13:37+00:00,"RT @ErikVoorhees: We needn’t assume a central villain in a land of evil.
+
+We needn’t assume a central hero in a land of virtue.
+
+The conspi…",
+52,2022-11-29 20:30:07+00:00,Freedom is important.,
+53,2022-11-29 16:39:13+00:00,"Experimenting with using GPT3 to learn Spanish.
+
+It's not perfect, but also... not that bad!
+
+Hablantes nativos de español, qué errores cometió el GPT3? https://t.co/SVBzFOu7LF",
+54,2022-11-28 12:07:35+00:00,RT @koeppelmann: To make it crystal clear: WETH is a very simple smart contract - think of it like an adapter. You will ALWAYS be able to c…,
+55,2022-11-27 16:55:20+00:00,"Have you seen or heard the term ""base layer"" used before *in the context of clothing*?",
+56,2022-11-27 14:17:42+00:00,"RT @dankrad: A lot of people making jokes about WETH.
+
+Please be aware it may not be obvious to outsiders that it's completely different fr…",
+57,2022-11-26 19:06:37+00:00,RT @WarMonitor3: Bakhmut trench warfare 2022 https://t.co/DcitoqrgR4,
+58,2022-11-26 17:41:41+00:00,"RT @NathanpmYoung: Should @elonmusk give $ 1billion directly to the poorest people in the world via @GiveDirectly 
+
+vox populi, vox dei",
+59,2022-11-26 16:36:39+00:00,"RT @biogerontology: IHMO, ""do what your mother told you"", eat green in moderation, sleep, exercise, do what you love, can give you 10 years…",
+60,2022-11-25 17:34:09+00:00,RT @coinbase: We're excited to see how far we can go as an industry with on-chain accounting and are exploring new ways to prove reserves.…,
+61,2022-11-25 13:04:25+00:00,"RT @binance: As part of our ongoing commitment to transparency, we have provided new updates on #Binance’s Proof of Reserves. 
+
+Further upd…",['Binance']
+62,2022-11-24 22:41:47+00:00,"RT @ameensol: @azsantosk @Nakamotolisk @sassal0x @shrnkld @koeppelmann reminder, if your ""stablecoin"" can't unwind, it's probably a ponzi s…",
+63,2022-11-24 21:43:18+00:00,"One way @a16z Helios could meaningfully improve things on user privacy and gain more adoption is by combining multiple useful features into its proxy: in addition to its current light client features, also route user requests through Tor.
+
+https://t.co/NVODlxmlbd",
+64,2022-11-24 17:52:10+00:00,"Amazing to see more good work on Long Covid!
+
+Also big thanks to @CryptoRelief_ for providing funds that helped make this possible, and of course the Shiba Inu community.",
+65,2022-11-24 16:46:18+00:00,"RT @StarkWareLtd: The day has come: a first look into Cairo 1.0, fully open-source 🦀
+
+This is a big step towards open-sourcing the StarkNet…",
+66,2022-11-24 16:30:39+00:00,"RT @Snowden: I'm thankful for the Internet. 
+
+One day it will be free and open, edge to edge.",
+67,2022-11-24 15:04:24+00:00,"RT @vdWijden: PSA: WE ARE GOING TO REMOVE SELFDESTRUCT!
+
+PLEASE DON'T USE SELFDESTRUCT IN NEW CONTRACTS MOVING FORWARD!
+
+If your contract i…",
+68,2022-11-24 14:54:59+00:00,"Some charts with estimates on different min bid values for stakers using mev-boost.
+
+A min bid of 0.05 would mean you produce nearly half the blocks yourself (very strong censorship resistance) but only sacrifice a tiny bit of profit. https://t.co/wYa8Jim434",
+69,2022-11-24 12:21:22+00:00,"Thread summarizing amazing progress on EIP-4844 (proto-danksharding).
+
+This is a crucial first step to massively lower fees on L2, helping to make it affordable for much larger numbers of users to directly use on-chain applications instead of relying on cefi intermediaries.",
+70,2022-11-23 12:32:01+00:00,"RT @vdWijden: And we have liftoff 🚀
+
+Multiclient withdrawal devnet with:
+
+Lodestar
+Teku
+Lighthouse
+Nethermind
+Geth
+
+Huge shoutout to @Barna…",
+71,2022-11-22 23:34:00+00:00,"New short-term censorship resistance strategy dropped, courtesy of Flashbots: setting a min bid for outsourcing
+
+https://t.co/xEsxHvCqXY
+
+Recommend stakers using mevboost take advantage of this option!",
+72,2022-11-21 12:57:45+00:00,"RT @VitalikButerin: Sigh, I'll explain where I am coming from in more detail.
+
+Basically, there's ""a thing"" that happens on here where peop…",
+73,2022-11-20 16:47:51+00:00,"RT @TBSocialist: The second part of my interview with @VitalikButerin  is OUT.
+
+For this half we spoke a lot about potential left wing use…",
+74,2022-11-19 10:25:59+00:00,"Having a safe CEX: proof of solvency and beyond
+
+https://t.co/AKEweYZfj2
+
+Big thanks to @balajis and staff from @coinbase @binance @krakenfx for discussion!",
+75,2022-11-18 22:34:20+00:00,"ok guys please don't beg for money in social or chat messages
+
+I feel bad refusing as I know lots of your causes are honorable, but unfortunately it's hard for me to verify each one, and having a pattern of responding to such requests would lead to my inbox breaking completely 😭",
+76,2022-11-17 18:38:52+00:00,"RT @glenweyl: I am delighted to be launching today the @PluralityInst: https://t.co/W1dwkY4v5P, an interdisciplinary academic technology re…",
+77,2022-11-17 15:06:59+00:00,"RT @SpruceID: Now commencing phase one of the Bring-Your-Own-Data Revolution 🚀
+
+Introducing SSX - Self-Sovereign Anything - now the easiest…",
+78,2022-11-16 17:08:29+00:00,"Sometimes I wish our language had tenses or other markers for levels of epistemic confidence. A one-syllable way to say:
+
+""I believe X because I have mathematical proof""
+""I'm underqualified on this topic, but my feeling is X""
+""My impression from observations so far is X""
+
+etc",
+79,2022-11-15 15:35:48+00:00,"RT @m_clem: The current wait time for a US Visitor Visa at the consulate in Mumbai is, and I quote: ""999 calendar days"".
+
+A de facto barrie…",
+80,2022-11-15 11:46:24+00:00,"Fascinating thread.
+
+(Not dunking. Ethereum too will have to work hard to get widespread adoption of L2s for in-person payments. Getting the UX right is very much not an easy problem, and we should learn from existing experiments)",
+81,2022-11-15 09:50:09+00:00,"Automatically downgrading every single thing SBF believed in is an error. It's important to actually think and figure out which things contributed to the fraud and which things didn't.
+
+Don't be the guy who would have tried to cancel vegetarianism in 1945.",
+82,2022-11-15 09:34:28+00:00,Honestly the EA community's reaction to the SBF collapse has been far less defensive and much more focused on trying to figure out what lessons to learn than even I would have expected.,
+83,2022-11-13 12:16:26+00:00,I talk about crypto and culture and other stuff with @TBSocialist and probably say things I shouldn't... great conversation!,
+84,2022-11-13 02:23:13+00:00,RT @robinhanson: A species whose members tend to like their lives should be congratulated when it reaches each billion population milestone…,
+85,2022-11-13 00:13:07+00:00,RT @glenweyl: I am really excited to see a former post-doc in one of my labs launch the first large-scale academic survey of the Web3 commu…,
+86,2022-11-11 20:53:49+00:00,"RT @shreyjaineth: Social Applied ZK projects on Ethereum:
+
+- Unirep
+- Semaphore
+- @heyanonxyz
+- Interep
+- MACI
+- @Sismo_eth 
+- zkPIN
+- zk-e…",
+87,2022-11-11 19:47:57+00:00,"RT @adietrichs: I think we have been too complacent because EOA self-custody is good enough for power users, and centralized exchanges look…",
+88,2022-11-11 19:47:52+00:00,RT @adietrichs: Vitalik has been actively advocating for account abstraction for years. I believe this should indeed be a priority now. EOA…,
+89,2022-11-10 14:15:16+00:00,"RT @SBF_FTX: 1) I'm sorry.  That's the biggest thing.
+
+I fucked up, and should have done better.",
+90,2022-11-09 22:40:24+00:00,"RT @TrustlessState: Good luck to the @solana community out there
+
+I hope this is your $80 $ETH moment. 
+
+A strong and committed community i…",
+91,2022-11-09 22:36:48+00:00,"Anti-malaria, pandemic response, mitigating extreme poverty, life extension research, mitigating existential risks (including AI) and thinking about the multimillion-year future of humanity are all very important and undervalued issues and will continue to be for quite a while.",
+92,2022-11-08 00:15:38+00:00,"Amazing to see more and more companies in the Ethereum ecosystem contributing and building infrastructure!
+
+Great work by @a16zcrypto",
+93,2022-11-06 06:19:30+00:00,"Would you feel comfortable making a tweet saying ""LA LA LA LA LA I AM A CAT 😺😺"" with no context right this moment?",
+94,2022-11-05 03:33:28+00:00,"1 TB monthly ~= 400 kB/sec, or 4.8 MB per slot. Enough for proto-danksharding, but not for the scaling endgame.
+
+We do still need full danksharding with data availability sampling to make node running viable in the long term.",
+95,2022-11-05 01:51:39+00:00,"One of my minor gripes with many mainstream media publications is how unwilling they are to link directly to primary sources. Often I have to go through many different articles and search keywords to find the original document.
+
+Linking to the primary source should be the norm!",
+96,2022-11-04 01:32:37+00:00,RT @TimBeiko: Great @EthMagicians post by @VitalikButerin defining potential stages of L2 centralizations and potential milestones that tea…,
+97,2022-11-03 07:37:22+00:00,"RT @0x_Alpha: AI to the Left, Crypto to the Right:
+At this historic moment of 2019, the two most interesting things that will happen to hum…",
+98,2022-10-31 23:38:48+00:00,RT @notscottmoore: Nikolai was one of the earliest community members I came across in my journey into Ethereum and a key reason I stayed.…,
+99,2022-10-29 06:38:46+00:00,"I generally don't like subtweeting; it's impolite to people who do not have context. When I tweet a generality instead of just talking about a particular situation directly, I typically have at least two examples in mind.
+
+(And yes, this applies self-referentially)",
+100,2022-10-29 06:23:19+00:00,"Beware the impulse to preach that ""we must make sacrifices for the sake of peace"" but suggest only sacrifices where other people are the ones sacrificing while you give up nothing.",
