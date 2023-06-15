@@ -11,7 +11,7 @@ def sortData(tweets, username, keyword):
     for index, row in filtered_tweets.iterrows():
         sentiment = get_sentiment(row[1])
         sentiments.loc[row[0]] = [sentiment]
-        print(index)
+        print(sentiment)
 
     # moves data to CSV and returns
     sentiments.to_csv(f'./output/{username}_sorted.csv')

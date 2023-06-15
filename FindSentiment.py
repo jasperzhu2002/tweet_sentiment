@@ -22,11 +22,10 @@ def get_completion(prompt, deployment_name='gpt35'):
 # uses chatGPT to get sentiment
 def get_sentiment(tweet):
     prompt = f"""
-    What is the sentiment of the following tweet, 
-    which is delimited with triple backticks? Please rate
-    the sentiment from 1 to 10 where 1 is the worst and
-    10 is the best. Please respond with only the rating
-    as an integer.
+    Please rate the sentiment of the following tweet, 
+    which is delimited with triple backticks. Respond with
+    and integer from 1 to 10, where one is the worst and 10
+    is the best.
 
     Review text: '''{tweet}'''
     """
