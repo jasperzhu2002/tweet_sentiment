@@ -1,5 +1,5 @@
 import pandas as pd
-from FindSentiment import get_sentiment
+from GetSentiment import get_sentiment
 
 def sortData(tweets, username, keyword):
     # filter rows

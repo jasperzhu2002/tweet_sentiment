@@ -13,7 +13,7 @@ data = []
 
 # gets data for each twitter account
 for username in people:
-    tweets = scrape(username, 100)
+    tweets = scrape(username, 1000)
     data.append(sortData(tweets, username, 'ether|Ether'))
 
 # groups by day
